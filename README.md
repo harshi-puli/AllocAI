@@ -1,3 +1,4 @@
+# AllocAI: AutomatedTaskAssigner
 This is my algorithm for assigning particular tasks to a set of AI and human agents.
 **
 I worked with 3 datasets: **
